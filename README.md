@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 🤖
+
+🔭 I'm currently working taking the animations.dev course by Emil Kowalski
+🌱 I'm currently learning CI/CD.
 
 <!--
 **mrrobotoe/mrrobotoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
